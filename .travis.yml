@@ -1,0 +1,8 @@
+os_custom: image222
+jobs:
+script:
+- sleep 10
+- echo 1
+group: dev
+virt: 1xd
+language: minimal
